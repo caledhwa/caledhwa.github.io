@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Cale Hoopes</title>
-    <link>http://caledhwa.github.io/topics/android/</link>
+    <link>https://caledhwa.github.io/topics/android/</link>
     <description>Recent content in Android on Cale Hoopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Cale Hoopes; all rights reserved.</copyright>
     <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://caledhwa.github.io/topics/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://caledhwa.github.io/topics/android/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cross-Platform Custom Fonts in React Native</title>
-      <link>http://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</link>
+      <link>https://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</guid>
+      <guid>https://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</guid>
       <description>
 
 
 &lt;figure class=&#34;half right&#34;&gt;
     
-        &lt;img src=&#34;http://caledhwa.github.io/media/usbkey.jpg&#34;  /&gt;
+        &lt;img src=&#34;https://caledhwa.github.io/media/usbkey.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;

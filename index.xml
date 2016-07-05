@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cale Hoopes</title>
-    <link>http://caledhwa.github.io/</link>
+    <link>https://caledhwa.github.io/</link>
     <description>Recent content on Cale Hoopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Cale Hoopes; all rights reserved.</copyright>
     <lastBuildDate>Mon, 04 Jul 2016 14:06:00 -0500</lastBuildDate>
-    <atom:link href="http://caledhwa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://caledhwa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intro to React Native</title>
-      <link>http://caledhwa.github.io/presentation/intro-to-react-native/</link>
+      <link>https://caledhwa.github.io/presentation/intro-to-react-native/</link>
       <pubDate>Mon, 04 Jul 2016 14:06:00 -0500</pubDate>
       
-      <guid>http://caledhwa.github.io/presentation/intro-to-react-native/</guid>
+      <guid>https://caledhwa.github.io/presentation/intro-to-react-native/</guid>
       <description>
 
 &lt;p&gt;Some stuff&lt;/p&gt;
 
-&lt;p&gt;Originally given in Plano June 18 at &lt;a href=&#34;http://www.capitalone.io/&#34;&gt;Capital One SECON&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Originally given in Plano June 18 at &lt;a href=&#34;https://www.capitalone.io/&#34;&gt;Capital One SECON&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;embed slideshare&#34;&gt;
 &lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/99999999?rel=0&#34; width=&#34;599&#34; height=&#34;487&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt;
@@ -38,16 +38,16 @@
     
     <item>
       <title>Cross-Platform Custom Fonts in React Native</title>
-      <link>http://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</link>
+      <link>https://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</guid>
+      <guid>https://caledhwa.github.io/post/cross-platform-custom-fonts-in-react-native</guid>
       <description>
 
 
 &lt;figure class=&#34;half right&#34;&gt;
     
-        &lt;img src=&#34;http://caledhwa.github.io/media/usbkey.jpg&#34;  /&gt;
+        &lt;img src=&#34;https://caledhwa.github.io/media/usbkey.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -67,10 +67,10 @@
     
     <item>
       <title>Gongeal: A Compositor for Microservices UX</title>
-      <link>http://caledhwa.github.io/project/gongeal/</link>
+      <link>https://caledhwa.github.io/project/gongeal/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://caledhwa.github.io/project/gongeal/</guid>
+      <guid>https://caledhwa.github.io/project/gongeal/</guid>
       <description>
 
 &lt;p&gt;Gongeal is a go version of Compoxure which is a work in progress.&lt;/p&gt;
