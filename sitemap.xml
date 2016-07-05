@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://caledhwa.io/</loc>
+    <lastmod>2016-07-04T14:06:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://caledhwa.io/presentation/intro-to-react-native/</loc>
+    <lastmod>2016-07-04T14:06:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://caledhwa.io/post/cross-platform-custom-fonts-in-react-native</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://caledhwa.io/project/gongeal/</loc>
+    <lastmod>2016-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

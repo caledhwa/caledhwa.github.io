@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios on Cale Hoopes</title>
+    <link>http://caledhwa.io/topics/ios/</link>
+    <description>Recent content in Ios on Cale Hoopes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, Cale Hoopes; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://caledhwa.io/topics/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cross-Platform Custom Fonts in React Native</title>
+      <link>http://caledhwa.io/post/cross-platform-custom-fonts-in-react-native</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://caledhwa.io/post/cross-platform-custom-fonts-in-react-native</guid>
+      <description>
+
+
+&lt;figure class=&#34;half right&#34;&gt;
+    
+        &lt;img src=&#34;http://caledhwa.io/media/usbkey.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This is simply a template for a first blog post.&lt;/p&gt;
+
+&lt;h2 id=&#34;related-articles&#34;&gt;Related articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://caledhwa.io/&#34;&gt;Reference to another blog post&lt;/a&gt;
+(caledhwa.io)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
