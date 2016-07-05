@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on Cale Hoopes</title>
-    <link>http://caledhwa.io/presentation/</link>
+    <link>http://caledhwa.github.io/presentation/</link>
     <description>Recent content in Presentations on Cale Hoopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Cale Hoopes; all rights reserved.</copyright>
     <lastBuildDate>Mon, 04 Jul 2016 14:06:00 -0500</lastBuildDate>
-    <atom:link href="http://caledhwa.io/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://caledhwa.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intro to React Native</title>
-      <link>http://caledhwa.io/presentation/intro-to-react-native/</link>
+      <link>http://caledhwa.github.io/presentation/intro-to-react-native/</link>
       <pubDate>Mon, 04 Jul 2016 14:06:00 -0500</pubDate>
       
-      <guid>http://caledhwa.io/presentation/intro-to-react-native/</guid>
+      <guid>http://caledhwa.github.io/presentation/intro-to-react-native/</guid>
       <description>
 
 &lt;p&gt;Some stuff&lt;/p&gt;

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on Cale Hoopes</title>
-    <link>http://caledhwa.io/topics/golang/</link>
+    <link>http://caledhwa.github.io/topics/golang/</link>
     <description>Recent content in Golang on Cale Hoopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Cale Hoopes; all rights reserved.</copyright>
     <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://caledhwa.io/topics/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://caledhwa.github.io/topics/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gongeal: A Compositor for Microservices UX</title>
-      <link>http://caledhwa.io/project/gongeal/</link>
+      <link>http://caledhwa.github.io/project/gongeal/</link>
       <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://caledhwa.io/project/gongeal/</guid>
+      <guid>http://caledhwa.github.io/project/gongeal/</guid>
       <description>
 
 &lt;p&gt;Gongeal is a go version of Compoxure which is a work in progress.&lt;/p&gt;
